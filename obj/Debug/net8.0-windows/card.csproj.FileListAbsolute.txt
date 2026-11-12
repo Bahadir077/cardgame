@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\muasirproq\card\card\bin\Debug\net8.0-windows\card.exe
+C:\Users\User\OneDrive\Desktop\muasirproq\card\card\bin\Debug\net8.0-windows\card.deps.json
+C:\Users\User\OneDrive\Desktop\muasirproq\card\card\bin\Debug\net8.0-windows\card.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\muasirproq\card\card\bin\Debug\net8.0-windows\card.dll
+C:\Users\User\OneDrive\Desktop\muasirproq\card\card\bin\Debug\net8.0-windows\card.pdb
+C:\Users\User\OneDrive\Desktop\muasirproq\card\card\obj\Debug\net8.0-windows\card.Form1.resources
+C:\Users\User\OneDrive\Desktop\muasirproq\card\card\obj\Debug\net8.0-windows\card.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\muasirproq\card\card\obj\Debug\net8.0-windows\card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\muasirproq\card\card\obj\Debug\net8.0-windows\card.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\muasirproq\card\card\obj\Debug\net8.0-windows\card.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\muasirproq\card\card\obj\Debug\net8.0-windows\card.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\muasirproq\card\card\obj\Debug\net8.0-windows\card.dll
+C:\Users\User\OneDrive\Desktop\muasirproq\card\card\obj\Debug\net8.0-windows\refint\card.dll
+C:\Users\User\OneDrive\Desktop\muasirproq\card\card\obj\Debug\net8.0-windows\card.pdb
+C:\Users\User\OneDrive\Desktop\muasirproq\card\card\obj\Debug\net8.0-windows\card.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\muasirproq\card\card\obj\Debug\net8.0-windows\ref\card.dll
